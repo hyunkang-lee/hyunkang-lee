@@ -1,4 +1,4 @@
-### Hi there 👋
+![tistory (1)](https://github.com/hyunkang-lee/hyunkang-lee/assets/145536246/7aebd4bc-586c-4165-a246-4294313deb95)### Hi there 👋
 
 <!--
 **hyunkang-lee/hyunkang-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 <div align= "center">
-  tstory
+  tstory![Uploading tisto<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>ry (1).svg…]()
+
 </div>
