@@ -1,12 +1,12 @@
 ### Hi there 👋
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeopia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+%26+Total&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunkang-lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+%26+Total&edge_flat=false"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seopia&show_icons=true&theme=transparent) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunkang-lee&show_icons=true&theme=transparent) 
 <br/>블로그<br/>
 https://tosicoding.tistory.com/
 
 ## 💻Using Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seopia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunkang-lee)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆Awards
 
 ▶ 2024.02.29 하이미디어 아카데미 웹 개발 프로젝트 장려상
